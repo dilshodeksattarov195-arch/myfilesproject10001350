@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpender",
+        "uuid": 7065900,
+        "checksum": "6fvw66"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
